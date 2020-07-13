@@ -1,5 +1,5 @@
 {
-  "name": "getfilelist",
+  "name": "shgetfilelist",
   "version": "1.0.0",
   "description": "Get a list of all files in a folder",
   "main": "getContent.js",
