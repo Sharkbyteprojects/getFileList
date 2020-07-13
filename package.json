@@ -1,0 +1,17 @@
+{
+  "name": "getfilelist",
+  "version": "1.0.0",
+  "description": "Get a list of all files in a folder",
+  "main": "getContent.js",
+  "scripts": {
+    "test": "node getc.js"
+  },
+  "keywords": [
+    "files",
+    "all",
+    "fs",
+    "accessible"
+  ],
+  "author": "Sharkbyteprojects",
+  "license": "ISC"
+}
